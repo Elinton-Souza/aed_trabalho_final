@@ -1,0 +1,22 @@
+# Bytecode e cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+
+# Backups gerados pelo programa
+backups/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
